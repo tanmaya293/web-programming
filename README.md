@@ -13,3 +13,4 @@ Languages and Frameworks Used:
 •	Angular 7
 •	Node Js
 •	Mongoose Js
+• Typescript
